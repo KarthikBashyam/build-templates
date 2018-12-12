@@ -6,6 +6,6 @@ Run command below to deploy the template to your k8s cluster. Be sure to install
 
 ```
 
-kubectl apply -f ci-build-template.yaml
+kubectl apply -f https://raw.githubusercontent.com/storefinder/build-templates/master/ci-build-template.yaml
 
 ```
